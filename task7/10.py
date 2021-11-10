@@ -1,0 +1,1 @@
+print("True" if int(input()) % 10 % 3 == 0 else "False")
